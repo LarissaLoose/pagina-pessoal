@@ -26,3 +26,8 @@ p {
     margin: 9px;
 
 }
+
+ @media screen (min-width: 768px) {
+    
+    flex-direction: column;
+ }
